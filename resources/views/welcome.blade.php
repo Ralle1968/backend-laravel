@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel backend for Vuelaravel!
+                    Laravel Backend for Vuelaravel!
                 </div>
 
                 <div class="links">
